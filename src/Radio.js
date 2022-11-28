@@ -11,7 +11,7 @@ export default function Radio() {
     setupApi().then((data) => {
       setStations(data);
     });
-  });
+  }, []);
 
   const setupApi = async () => {
     const api = new RadioBrowserApi(fetch.bind(window), "My Radio App");
@@ -32,6 +32,7 @@ export default function Radio() {
       <div className="stations">
         {stations &&
           stations.map((station, index) => {
+            console.log([station.name, station.urlResolved]);
             return (
               <div className="station" key={index}>
                 <div className="stationName">
