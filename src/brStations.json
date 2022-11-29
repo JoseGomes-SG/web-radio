@@ -8,15 +8,21 @@
 	},
 	{
 		"id": "1",
-		"name": "Band News FM 96.9 MHz (São Paulo - SP)",
-		"url": "https://20843.live.streamtheworld.com/BANDNEWSFM_SPAAC",
-		"favicon": "https://www.band.uol.com.br/favicon.ico"
+		"name": ""_ 101.3 BRAZİL FM"",
+		"url": ""https://canli.arabeskinmerkezi.com/9180/stream"",
+		"favicon": "https://i.hizliresim.com/bvwiekr.png"
 	},
 	{
 		"id": "2",
 		"name":"Aliança Fm",
 		"url":"https://server01.srvsh.com.br:13788/stream",
 		"favicon":""
+	}, 
+	{
+		"id": 3,
+		"name": "Brasil de Fato",
+		"url":"https://s09.hstbr.net:8238/live?1514038524061",
+		"favicon":"https://www.brasildefato.com.br//img/icons/mstile-144x144.png"
 	}
 	]
 }
