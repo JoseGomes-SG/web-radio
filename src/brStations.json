@@ -1,0 +1,22 @@
+{
+	"stations": [
+	{
+		"id": "0",
+		"name" : "Bossa Jazz Brasil",
+		"url": "https://centova5.transmissaodigital.com:20104/live",
+		"favicon": "https://bossajazzbrasil.com/wp-content/uploads/2020/12/bjs-app.png"
+	},
+	{
+		"id": "1",
+		"name": "Band News FM 96.9 MHz (São Paulo - SP)",
+		"url": "https://20843.live.streamtheworld.com/BANDNEWSFM_SPAAC",
+		"favicon": "https://www.band.uol.com.br/favicon.ico"
+	},
+	{
+		"id": "2",
+		"name":"Aliança Fm",
+		"url":"https://server01.srvsh.com.br:13788/stream",
+		"favicon":""
+	}
+	]
+}
